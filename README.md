@@ -12,7 +12,8 @@ Liberty Exports' Australian buyer, supplier, freight and logistics research was 
 
 I used Salesforce to turn this fragmented research into a structured CRM workflow. After validating and matching the spreadsheet data in Excel, I created 84 Salesforce Leads, built reports for each business group and combined them in one management dashboard. This gave the company a consistent way to review lead volumes, priority levels, product interests, supplier minimum order quantities and logistics service coverage.
 
-![Liberty Australia Overview Dashboard](images/liberty-australia-overview-dashboard.png)
+<img width="1269" height="1538" alt="Liberty Australia Overview Dashboard" src="https://github.com/user-attachments/assets/d3343ee0-17da-4d9e-9c09-ebe3b3a1495f" />
+
 
 ## Business need
 
